@@ -16,15 +16,6 @@ Busquei entender na prática como conectar um CMS a uma interface moderna, explo
 - [React Router DOM](https://reactrouter.com/)
 - HTML5 / CSS3 / JavaScript (ES6+)
 
-## ⚙️ Configuração e Execução
-
-### 1️⃣ Clonar o repositório
-
-```bash
-git clone https://github.com/GustavoBrendon/Blog.git
-cd Blog
-```
-
 ## 🧩 Funcionalidades
 
 - 📰 Listagem de posts publicados no Sanity
